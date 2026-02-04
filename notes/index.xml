@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on Zooger-Liu</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Notes on Zooger-Liu</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Note</title>
+      <link>http://localhost:1313/notes/first-note/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/first-note/</guid>
+      <description>&lt;p&gt;Your first note.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
