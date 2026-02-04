@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Zooger-Liu</title>
-    <link>http://localhost:1313/</link>
+    <link>http://home.zooger.cn/</link>
     <description>Recent content on Zooger-Liu</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Feb 2026 16:02:35 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://home.zooger.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/blog/second-post/</link>
+      <link>http://home.zooger.cn/blog/second-post/</link>
       <pubDate>Wed, 04 Feb 2026 16:02:35 +0100</pubDate>
-      <guid>http://localhost:1313/blog/second-post/</guid>
+      <guid>http://home.zooger.cn/blog/second-post/</guid>
       <description></description>
     </item>
     <item>
       <title>First Note</title>
-      <link>http://localhost:1313/notes/first-note/</link>
+      <link>http://home.zooger.cn/notes/first-note/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/first-note/</guid>
+      <guid>http://home.zooger.cn/notes/first-note/</guid>
       <description>&lt;p&gt;Your first note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/blog/first-post/</link>
+      <link>http://home.zooger.cn/blog/first-post/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/first-post/</guid>
+      <guid>http://home.zooger.cn/blog/first-post/</guid>
       <description>&lt;p&gt;Your first blog post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>http://home.zooger.cn/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>http://home.zooger.cn/research/</guid>
       <description>&lt;p&gt;My research interests and projects.&lt;/p&gt;</description>
     </item>
   </channel>

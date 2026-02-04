@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://home.zooger.cn/</loc>
     <lastmod>2026-02-04T16:02:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://home.zooger.cn/blog/</loc>
     <lastmod>2026-02-04T16:02:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/second-post/</loc>
+    <loc>http://home.zooger.cn/blog/second-post/</loc>
     <lastmod>2026-02-04T16:02:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/first-note/</loc>
+    <loc>http://home.zooger.cn/notes/first-note/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/first-post/</loc>
+    <loc>http://home.zooger.cn/blog/first-post/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>http://home.zooger.cn/notes/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://home.zooger.cn/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://home.zooger.cn/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>http://home.zooger.cn/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://home.zooger.cn/tags/</loc>
   </url>
 </urlset>
